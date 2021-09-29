@@ -1,0 +1,99 @@
+body{
+  background-image: url("kepek/hatterkep.jpg");
+}
+p{
+  font-size: 30pt
+}
+h1{
+  color:yellow;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30p;
+  border-left: 500px solid rgba(60, 102, 194, 0.514);
+  text-align: center;
+}
+h2{
+  color:aqua;
+  font-family: inherit;
+  font-size: 25pt;
+  border-left: 523px solid rgba(177, 230, 33, 0.514);
+  text-align: center;
+}
+h3{
+  color: yellow;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 22;
+  border-left: 153px solid rgba(248, 0, 0, 0.514);
+}
+h4{
+  color: orange;
+  font-family:monospace;
+  font-size: 20pt;
+  border-left: 198px solid rgb(77, 102, 114);
+  text-align: left;
+}
+h5{
+  color: aqua;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 18pt;
+  border-left: 41px solid rgb(255, 169, 8);
+}
+h6{
+  color: rgb(191, 191, 192 );
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 16pt;
+  border-left: 97px solid rgb(0, 204, 255);
+}
+h7{
+  color: rgb(183, 125, 235);
+  font-family:Impact, 'Arial Narrow Bold', sans-serif;
+  font-size: 16pt;
+  border-left: 393px solid rgba(75, 255, 4, 0.514);
+}
+h8{
+  color: rgb(255, 0, 221);
+  font-family:'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15pt;
+  border-left: 291px solid rgba(255, 238, 0, 0.514);
+}
+h9{
+  color: rgb(255, 111, 111);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  font-size: 14pt;
+  border-left: 938px solid rgb(183, 0, 255);
+}
+h10{
+  color: rgb(141, 139, 247);
+  font-family:'Courier New', Courier, monospace;
+  font-size: 12pt;
+  border-left: 613px solid rgba(0, 80, 252, 0.514);
+}
+.doboz1{
+    background-color: rgb(17, 200, 255);
+}
+.doboz2{
+    background-color: rgb(33, 51, 3);
+}
+.doboz3{
+    background-color:rgb(245, 1, 1);
+}
+.doboz4{
+    background-color: rgba(30, 255, 0, 0.5);
+}
+.doboz5{
+    background-color: rgba(146, 11, 11, 0.473);
+}
+.doboz6{
+    background-color: rgb(49, 5, 5);
+}
+.doboz7{
+    background-color: rgb(255, 207, 198);
+}
+.doboz8{
+    background-color: rgb(0, 71, 104);
+}
+.doboz9{
+    background-color: rgb(11, 37, 3);
+}
+.doboz10{
+    background-color: rgba(151, 23, 123, 0.548);
+}
